@@ -1,0 +1,149 @@
+
+
+html,
+
+
+body {
+
+    height:100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+}
+
+
+
+.gradient {
+
+background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(228, 224, 10) 0%, rgba(0,212,255,1) 100%);
+}
+
+
+
+
+.page-header {
+
+font-size: 1.75rem;
+color: #000000;
+}
+
+.page-header img{
+    font-size: 1.75rem;
+    color: #ffffff;
+    border-radius: 20%;
+    }
+
+
+
+
+.contact {
+
+    margin-top: 50px;
+    position: relative;
+}
+
+
+
+.gallery img {
+
+    border-radius: 20%;
+    margin-top: 25px;
+}
+
+.services img{
+
+    color: #be0d0d;
+    border-radius: 20%;
+    }
+
+.services {
+
+color: #a50606;
+margin-top: 50px;
+border-radius: 20%;
+}
+
+
+
+#container .button{	
+    float: center;
+    color: #be0d0d;
+    }	
+
+.banner{
+
+font-size: smaller;
+border-radius: 20%;
+margin-top: 20px;
+border-style: outset;
+}    
+
+.button{
+
+    background-origin: padding-box;
+}
+
+
+
+    
+    #boxServicos ul li {
+    float:left;
+    margin-right:150px;
+    font-size:20px;
+
+    }
+  
+    footer {
+        width: 100%;
+        overflow: hidden;
+        border-radius: 0 0 85% 85% / 30%;
+        height:50px
+    }
+    
+
+
+.contact-info{
+    margin-top:10%;
+}
+.contact-info img{
+    margin-bottom: 5%;
+    border-radius: 20%;
+}
+.contact-info h2{
+    margin-bottom: 10%;
+}
+.col-md-9{
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgb(0, 200, 250) 0%, rgb(176, 252, 0) 100%);
+    padding: 3%;
+    border-top-right-radius: 0.5rem;
+    border-bottom-right-radius: 0.5rem;
+    border-radius: 10%;
+}
+.contact-form label{
+    font-weight:600;
+}
+.contact-form button{
+    background: #25274d;
+    color: #fff;
+    font-weight: 600;
+    width: 25%;
+}
+.contact-form button:focus{
+    box-shadow:none;
+}
+
+
+.icon {
+
+    color: #fff;
+    height: 5rem;
+    width: 5rem;
+    font-size: 1.75rem;
+    border-radius: 100%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20px;
+    }
+
+
